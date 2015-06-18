@@ -11,7 +11,7 @@
   <%= link_to "Back to All Articles", articles_path  %>
 </div>
 
-<h3><%= pluralize @article.comments.count, "Comment" %></h3>
+<h3><%= @article.comments.count %></h3>
 
 <div id='comments'>
   <% @article.comments.each do |comment| %>

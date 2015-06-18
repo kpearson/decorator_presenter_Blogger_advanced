@@ -1,4 +1,4 @@
-# Blogger Advanced
+# Blogger Advanced | Rails decortor example | Draper Gem
 
 This is a sample project for use with the tutorials at http://tutorials.jumpstartlab.com
 
